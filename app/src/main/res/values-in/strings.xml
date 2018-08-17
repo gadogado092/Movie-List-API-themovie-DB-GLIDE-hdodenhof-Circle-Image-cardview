@@ -1,0 +1,15 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Aplikasi Movie</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Change Language</string>
+
+    <string name="home">Beranda</string>
+    <string name="search">Cari Movie</string>
+    <string name="now">Sedang Diputar</string>
+    <string name="upcoming">Akan Rilis</string>
+    <string name="support">Didukung oleh dicoding.com</string>
+    <string name="insert">Masukkan Nama Movie</string>
+
+</resources>

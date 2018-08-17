@@ -1,0 +1,18 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Movie Aplication</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Change Language</string>
+
+    <string name="home">Home</string>
+    <string name="search">Search Movie</string>
+    <string name="search2">Favorit Movie</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="pleasewait">Please Wait...</string>
+    <string name="now">Now Playing</string>
+    <string name="upcoming">Up Coming</string>
+    <string name="support">Support by dicoding.com</string>
+    <string name="insert">Insert Movie Name</string>
+</resources>
